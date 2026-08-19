@@ -1,0 +1,7 @@
+{
+  "type": "elysianrealm:beastfolk_settlement",
+  "biomes": "#elysianrealm:has_structure/elysian_beastfolk_settlement",
+  "step": "top_layer_modification",
+  "terrain_adaptation": "beard_thin",
+  "spawn_overrides": {}
+}

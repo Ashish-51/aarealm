@@ -1,0 +1,15 @@
+{
+  "structures": [
+    {
+      "structure": "elysianrealm:elysian_human_settlement",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "spacing": 34,
+    "separation": 9,
+    "spread_type": "linear",
+    "salt": 10395728
+  }
+}

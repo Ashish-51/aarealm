@@ -1,0 +1,17 @@
+{
+  "block.elysianrealm.elysian_portal_frame": "Elysian Portal Frame",
+  "block.elysianrealm.elysian_portal": "Elysian Portal",
+  "entity.elysianrealm.elysian_elf": "Elysian Elf",
+  "item.elysianrealm.elysian_elf_spawn_egg": "Elysian Elf Spawn Egg",
+  "entity.elysianrealm.elysian_beastfolk": "Elysian Beastfolk",
+  "item.elysianrealm.elysian_beastfolk_spawn_egg": "Elysian Beastfolk Spawn Egg",
+  "entity.elysianrealm.elysian_human": "Elysian Human",
+  "item.elysianrealm.elysian_human_spawn_egg": "Elysian Human Spawn Egg",
+  "entity.elysianrealm.elysian_dwarf": "Elysian Dwarf",
+  "item.elysianrealm.elysian_dwarf_spawn_egg": "Elysian Dwarf Spawn Egg",
+  "entity.elysianrealm.elysian_goblin": "Elysian Goblin",
+  "item.elysianrealm.elysian_goblin_spawn_egg": "Elysian Goblin Spawn Egg",
+  "entity.elysianrealm.elysian_orc": "Elysian Orc",
+  "item.elysianrealm.elysian_orc_spawn_egg": "Elysian Orc Spawn Egg",
+  "creativetab.elysianrealm": "Elysian Realm"
+}

@@ -1,0 +1,15 @@
+{
+  "structures": [
+    {
+      "structure": "elysianrealm:elysian_orc_settlement",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "spacing": 40,
+    "separation": 12,
+    "spread_type": "linear",
+    "salt": 57392815
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "parent": "minecraft:block/cube",
+  "render_type": "translucent",
+  "textures": {
+    "particle": "elysianrealm:block/elysian_portal",
+    "portal": "elysianrealm:block/elysian_portal"
+  },
+  "elements": [
+    {
+      "from": [6.001, 0, 0],
+      "to": [9.999, 16, 16],
+      "faces": {
+        "east": { "uv": [0, 0, 16, 16], "texture": "#portal" },
+        "west": { "uv": [0, 0, 16, 16], "texture": "#portal" }
+      }
+    }
+  ]
+}

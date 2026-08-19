@@ -1,0 +1,6 @@
+{
+  "variants": {
+    "axis=x": { "model": "elysianrealm:block/elysian_portal_x" },
+    "axis=z": { "model": "elysianrealm:block/elysian_portal_z" }
+  }
+}
